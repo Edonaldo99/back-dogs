@@ -14,4 +14,7 @@ app.listen(config.port, function () {
     console.log(`Listening http://localhost:${config.port}`);
     console.log('Nuevo commit clonado');
     console.log('Cambio realizado en la rama aplicacionesvirtual por 2da vez');
+    console.log('Cambio realizado en la rama aplicacionesvirtual por 2da vez');
+    console.log('Cambio realizado en la rama aplicacionesvirtual por 2da vez');
+    console.log('clase 2');
 });
